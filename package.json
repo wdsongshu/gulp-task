@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "gulp": "^3.9.1",
+  "gulp-inject": "^4.0.0",
+  "devDependencies": {
+    "gulp-inject": "^4.2.0"
+  }
+}
